@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of hamzone/ip.
+ * This file is part of hamcq/ip.
  *
  * Copyright (c) 2023 Emin.lin.
  *
@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace HamZone\IP;
+namespace HamCQ\IP;
 
 use Flarum\Extend;
 

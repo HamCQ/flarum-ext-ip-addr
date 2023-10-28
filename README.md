@@ -1,27 +1,19 @@
-# HamZoneIP
+# HamCQIP
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/hamzone/ip.svg)](https://packagist.org/packages/hamzone/ip) [![Total Downloads](https://img.shields.io/packagist/dt/hamzone/ip.svg)](https://packagist.org/packages/hamzone/ip)
-
-A [Flarum](http://flarum.org) extension. fix ip addr when use ali cdn
+A [Flarum](http://flarum.org) extension.修复因为使用阿里CDN的IP显示问题 fix ip addr when use ali cdn
 
 ## Installation
 
 Install with composer:
 
 ```sh
-composer require hamzone/ip:"*"
+composer require hamcq/flaurm-ext-ip:"*"
 ```
 
 ## Updating
 
 ```sh
-composer update hamzone/ip:"*"
+composer update hamcq/flaurm-ext-ip:"*"
 php flarum migrate
 php flarum cache:clear
 ```
-
-## Links
-
-- [Packagist](https://packagist.org/packages/hamzone/ip)
-- [GitHub](https://github.com/hamzone/ip)
-- [Discuss](https://discuss.flarum.org/d/PUT_DISCUSS_SLUG_HERE)

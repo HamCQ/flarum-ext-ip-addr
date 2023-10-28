@@ -1,6 +1,6 @@
 <?php
 
-namespace HamZone\IP\Middlewares;
+namespace HamCQ\IP\Middlewares;
 
 use Illuminate\Support\Arr;
 use Psr\Http\Message\ResponseInterface;

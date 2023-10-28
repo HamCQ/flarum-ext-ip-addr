@@ -1,5 +1,5 @@
 {
-    "name": "@hamzone/ip",
+    "name": "@hamcq/ip",
     "private": true,
     "version": "0.0.0",
     "devDependencies": {
